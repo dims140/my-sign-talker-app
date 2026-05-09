@@ -1,7 +1,7 @@
 export default {
   "expo": {
     "name": "Sign Talker",
-    "slug": "sign-talker-app",
+    "slug": "sign-talker-app-osvfnjwcfe0c4hmeej-az",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
