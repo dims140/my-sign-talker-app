@@ -8,8 +8,7 @@ export default {
     "android": {
       "package": "com.anindiyasaputra.signtalker",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/android-icon-foreground.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/images/android-icon-foreground.png"
       }
     },
     "extra": {
